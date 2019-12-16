@@ -1,2 +1,2 @@
 # ADC11
-github basic
+git basics
